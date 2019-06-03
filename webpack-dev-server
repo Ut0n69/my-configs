@@ -1,0 +1,9 @@
+devServer: {
+  open: true,
+  port: 8080,
+  watchContentBase: true,
+  contentBase: 'src/',
+  inline: true,
+  hot: true,
+  progress: true
+}
